@@ -1,0 +1,15 @@
+teams			home_wins	away_wins	total_wins	home_matches	away_matches	total_matches
+Rising Pune Supergiant	5		5		10		8		8		16
+Delhi Capitals		3		7		10		6		10		16
+Chennai Super Kings	51		49		100		89		75		164
+Mumbai Indians		58		51		109		101		86		187
+Sunrisers Hyderabad	30		28		58		63		45		108
+Kolkata Knight Riders	34		58		92		83		95		178	
+Rajasthan Royals	29		46		75		67		80		147
+Royal Challengers 	35		49		84		85		95		180
+Kings XI Punjab		38		44		82		91		85		176
+Gujarat Lions		1		12		13		14		16		30
+Kochi Tuskers Kerala	2		4		6		7		7		14
+Delhi Daredevils	25		42		67		72		89		161
+Deccan Chargers		18		11		29		43		32		75
+Pune Warriors		6		6		12		20		26		46
